@@ -120,15 +120,15 @@ Features
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshakj07&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=darshakj07&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshakj07&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=darshakj07&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshakj07&theme=tokyo-night"/>
 
 </p>
 
@@ -162,7 +162,7 @@ Features
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/darshakj07">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -194,6 +194,6 @@ Features
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=darshakj07&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
