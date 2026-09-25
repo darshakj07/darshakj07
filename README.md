@@ -156,7 +156,7 @@ Features
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/darshak-jikadra-817a9338a/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -164,7 +164,7 @@ Features
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:darshakjikadra007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
