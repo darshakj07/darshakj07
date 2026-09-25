@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshak Jikadra</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Software Engineer</h3>
+
+<h3 align="center">
+Full Stack Developer | AI & ML Enthusiast | Software Engineer
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Node.js+%7C+Python;Always+Learning+New+Technologies&center=true&width=600&height=45">
@@ -10,181 +13,209 @@
 ## 🚀 About Me
 
 - 🎓 BCA Graduate
-- 💻 Passionate Full Stack Developer
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 🌱 Currently exploring Docker, Kubernetes, System Design & Cloud
-- 🔥 Building real-world applications using the MERN Stack
-- 🎯 Goal: Become a Software Engineer and AI Engineer
+- 🎓 Currently pursuing MCA
+- 💻 Full Stack Developer
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌱 Learning Docker, Kubernetes, Cloud & System Design
+- 🔥 Building real-world applications with modern technologies
+- 🎯 Goal: Become a Software Engineer & AI/ML Engineer
 - 📍 Gujarat, India
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,php" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-### Tools & Technologies
+### ☁️ Cloud, DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,figma,linux,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,postman,vscode,figma,vercel,netlify" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💬 Connectify
-Real-time chat application using MERN Stack and Socket.IO.
+## 💬 Connectify
 
-**Features**
+A real-time messaging application built using the MERN stack and Socket.IO.
 
-- Authentication
-- JWT Security
-- Real-time Messaging
-- Online Status
-- Typing Indicator
-- Image Sharing
-- Responsive UI
+### Features
 
-**Tech**
+- 🔐 User Authentication
+- 🔑 JWT Security
+- 💬 Real-time Messaging
+- 🟢 Online / Offline Status
+- ⌨️ Typing Indicator
+- 🖼️ Image Sharing
+- 📱 Responsive UI
 
-React • Node.js • Express • MongoDB • Socket.IO
+### Tech Stack
 
----
-
-### 🌾 AgriNova
-
-A smart agriculture platform connecting farmers with buyers.
-
-Features
-
-- Farmer Dashboard
-- Weather API
-- Marketplace
-- Crop Listings
-- Authentication
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
 ---
 
-### 💼 FreelancerHub
+## 🌾 AgriNova
+
+A smart agriculture marketplace designed to connect farmers with buyers.
+
+### Features
+
+- 👨‍🌾 Farmer Dashboard
+- 🌦️ Weather Integration
+- 🛒 Agriculture Marketplace
+- 🌱 Crop Listings
+- 🔐 Authentication
+- 💰 Buying & Selling
+- 📍 Location-based Features
+
+### Tech Stack
+
+`React` `Tailwind CSS` `Node.js` `MongoDB`
+
+---
+
+## 💼 FreelancerHub
 
 A freelancing platform connecting clients and freelancers.
 
-Features
+### Features
 
-- Job Posting
-- Proposal System
-- Admin Panel
-- User Authentication
-- Messaging
+- 👤 Client & Freelancer Registration
+- 📋 Job Posting
+- 📝 Proposal System
+- 💬 Messaging
+- 🔐 Authentication
+- 👨‍💼 Admin Panel
+- 📊 User Dashboards
 
----
+### Tech Stack
 
-### 🔗 URL Shortener
-
-A URL shortening service similar to Bit.ly.
-
-Features
-
-- Short Links
-- Analytics
-- QR Code
-- Authentication
-- Click Tracking
+`HTML` `CSS` `Bootstrap` `PHP` `MySQL`
 
 ---
 
-## 📈 GitHub Stats
+## 🔗 URL Shortener
+
+A URL shortening platform inspired by services such as Bitly.
+
+### Features
+
+- 🔗 Short URLs
+- 📊 Click Analytics
+- 📱 QR Code Generation
+- 🔐 Authentication
+- 📈 Click Tracking
+
+### Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshakj07&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=darshakj07&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darshakj07&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://streak-stats.demolab.com/?user=darshakj07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshakj07&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshakj07&theme=algolia&row=1&column=7" />
-</p>
-
-
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshakj07&theme=tokyo-night" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshakj07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshakj07&theme=algolia&row=1&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshakj07&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/darshak-jikadra-817a9338a/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/darshakj07">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:darshakjikadra007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- MLOps
-- Kubernetes
-- AWS Cloud
-- System Design
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🧬 Deep Learning
+- ⚙️ MLOps
+- ☸️ Kubernetes
+- ☁️ AWS Cloud
+- 🏗️ System Design
+- 🚀 DevOps & CI/CD
 
 ---
 
-## 💡 Quote
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready applications
+- 🤖 Develop real-world AI/ML projects
+- ☁️ Improve Cloud & DevOps skills
+- ☸️ Master Kubernetes
+- 🧠 Strengthen System Design knowledge
+- 💼 Start professional freelancing
+- 🌟 Contribute to open-source projects
+- 📈 Build a strong developer portfolio
+
+---
+
+# 💡 Developer Quote
 
 > "Code. Learn. Build. Repeat."
 
@@ -192,6 +223,10 @@ Features
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=darshakj07&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=darshakj07&label=Profile%20Views&color=0e75b6&style=flat" />
 
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
 </p>
